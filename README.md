@@ -16,7 +16,7 @@
             <ul>
                 <li>💻 Proficient in JavaScript, Python, and Java.</li>
                 <li>🌐 Enjoy working with web technologies like HTML, CSS, and React.</li>
-                <li>🧠 Currently learning machine learning and data science.</li>
+                <li>🧠 Currently learning data engineering.</li>
                 <li>🌱 Open to collaboration and always looking to expand my knowledge.</li>
             </ul>
         </section>
