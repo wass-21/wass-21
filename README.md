@@ -18,10 +18,9 @@ next generation of tech enthusiasts.
         <section>
             <h2>Skills</h2>
             <ul>
-                <li>💻 Proficient in JavaScript, Python, and Java.</li>
-                <li>🌐 Enjoy working with web technologies like HTML, CSS, and React.</li>
-                <li>🧠 Currently learning data engineering.</li>
-                <li>🌱 Open to collaboration and always looking to expand my knowledge.</li>
+                <li>✨ Expertise in data engineering tools like Apache Spark, Apache Hadoop, and ETL frameworks.</li>
+                <li>🔒 Strong knowledge of data security and compliance best practices.</li>
+                <li>🌐 Proficient in SQL, Python, and data modeling.</li>
             </ul>
         </section>
         <section>
