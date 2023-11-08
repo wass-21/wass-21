@@ -5,7 +5,7 @@
 </head>
 <body>
     <header>
-        <h1>- 👋 Hi There, <strong>I’m Wassim Hassoun</strong></h1>
+        <h1 center="align">- 👋 Hi There, <strong>I’m Wassim Hassoun</strong></h1>
     </header>
     <main>
         <section>
