@@ -1,8 +1,3 @@
-<!DOCTYPE>
-<H1>- 👋 Hi There, <strong>I’m Wassim Hassoun</strong></h1>
-
-- 📫 How to reach me wassimhassoun310@gmail.com
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -15,7 +10,7 @@
     <main>
         <section>
             <h2>About Me</h2>
-            <p>Hi, I'm <strong>Wassim Hassoun</strong></p>
+            <p>- 👋 Hi There, <strong>I’m Wassim Hassoun</strong></p>
         </section>
         <section>
             <h2>Skills</h2>
