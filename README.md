@@ -1,5 +1,5 @@
 <!DOCTYPE>
-<H1>- 👋 Hi There, I’m Wassim Hassoun</h1>
+<H1>- 👋 Hi There, <strong>I’m Wassim Hassoun</strong></h1>
 
 - 📫 How to reach me wassimhassoun310@gmail.com
 
