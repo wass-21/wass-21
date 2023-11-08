@@ -1,10 +1,20 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <style>
+    .blue-text {
+      color: red;
+    }
+
+    .centered-text {
+      text-align: center;
+    }
+  </style>
 </head>
+
 <body>
     <header>
-        <h1 style="color: blue; text-align: center;"> 👋 Hi There,I’m <strong><em>Wassim Hassoun</em></strong></h1>
+        <h1 class="blue-text centered-text"> 👋 Hi There,I’m <strong><em>Wassim Hassoun</em></strong></h1>
     </header>
     <main>
         <section>
