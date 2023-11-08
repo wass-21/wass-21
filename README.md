@@ -1,4 +1,4 @@
-- 👋 Hi There, I’m @wass-21
+- 👋 Hi There, I’m Wassim Hassoun
 
 - 📫 How to reach me wassimhassoun310@gmail.com
 
