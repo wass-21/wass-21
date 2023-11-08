@@ -23,13 +23,6 @@ next generation of tech enthusiasts.
                 <li>🌐 Proficient in SQL, Python, and data modeling.</li>
             </ul>
         </section>
-        <section>
-            <h2>Projects</h2>
-            <ul>
-                <li><a href=""></a></li>
-                <!-- Add more projects here -->
-            </ul>
-        </section>
     </main>
 </body>
 </html>
