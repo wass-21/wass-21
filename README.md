@@ -5,12 +5,12 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to My GitHub Page</h1>
+        <h1>- 👋 Hi There, <strong>I’m Wassim Hassoun</strong></h1>
     </header>
     <main>
         <section>
             <h2>About Me</h2>
-            <p>- 👋 Hi There, <strong>I’m Wassim Hassoun</strong></p>
+            <p></p>
         </section>
         <section>
             <h2>Skills</h2>
