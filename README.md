@@ -9,7 +9,11 @@
     <main>
         <section>
             <h2>About Me</h2>
-            <p></p>
+            <p>Computer Science graduate from the Lebanese University with a strong academic foundation. Committed to continuous
+learning and recently completed a comprehensive Data Engineering program on Coursera. Experienced in educating
+students across various school and university levels, demonstrating a passion for knowledge sharing and fostering the
+next generation of tech enthusiasts.
+</p>
         </section>
         <section>
             <h2>Skills</h2>
@@ -23,8 +27,7 @@
         <section>
             <h2>Projects</h2>
             <ul>
-                <li><a href="link-to-project-1">Project 1</a>: A brief description of the project.</li>
-                <li><a href="link-to-project-2">Project 2</a>: Another project description.</li>
+                <li><a href=""></a></li>
                 <!-- Add more projects here -->
             </ul>
         </section>
