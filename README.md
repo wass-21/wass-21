@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My GitHub Page</title>
 </head>
 <body>
     <header>
