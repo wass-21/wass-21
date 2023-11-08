@@ -1,16 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <style>
-    .blue-text {
-      color: red;
-    }
-
-    .centered-text {
-      text-align: center;
-    }
-  </style>
-</head>
 
 <body>
     <header>
