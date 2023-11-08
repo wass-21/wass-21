@@ -4,7 +4,7 @@
 </head>
 <body>
     <header>
-        <h1 text-align: center color: blue> 👋 Hi There,I’m <strong><em>Wassim Hassoun</em></strong></h1>
+        <h1 style="text-align: center;color: blue;"> 👋 Hi There,I’m <strong><em>Wassim Hassoun</em></strong></h1>
     </header>
     <main>
         <section>
